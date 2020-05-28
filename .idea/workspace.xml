@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9f02ce48-1bfc-42d3-a3bb-330d6d05d6d8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1aGTPLGvPNdx9So88DaJlJSC37X" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Верстка/traffico" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Sass/SCSS" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\WebStorm 2019.3.4\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Дима\Desktop\Webpack сборка для верстки\src\styles" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9f02ce48-1bfc-42d3-a3bb-330d6d05d6d8" name="Default Changelist" comment="" />
+      <created>1586360905716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586360905716</updated>
+      <workItem from="1586360907796" duration="4926000" />
+      <workItem from="1586369825416" duration="434000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="723" y="310" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586367646063">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="310" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586367646063" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1586367633099">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586367633099" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1586370263952">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586370263952" />
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1586369604440">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586369604440" />
+    <state width="1899" height="261" key="GridCell.Tab.0.center" timestamp="1586369604439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586369604439" />
+    <state width="1899" height="261" key="GridCell.Tab.0.left" timestamp="1586369604438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586369604438" />
+    <state width="1899" height="261" key="GridCell.Tab.0.right" timestamp="1586369604439">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586369604439" />
+    <state x="795" y="278" width="998" height="708" key="SettingsEditor" timestamp="1586369584416">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="795" y="278" width="998" height="708" key="SettingsEditor/0.0.1920.1040/-1440.185.1440.860@0.0.1920.1040" timestamp="1586369584416" />
+  </component>
+</project>
